@@ -1,1 +1,1 @@
-# jjdzr6-java-the-hutt
+Final version of InfoShare's Academy project (Java Course).
